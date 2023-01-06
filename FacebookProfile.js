@@ -11,6 +11,7 @@ var facebookProfile = {
     addFriend: function(){
         this.numberOfFriends++;
     },
+    
     removeFriend : function(){
         this.numberOfFriends--;
     }
